@@ -3,6 +3,8 @@ name = "lorem-ipsum-generator"
 authors = ["Varga Marcell <v.marcell4000@gmail.com>"]
 version = "0.1.0"
 edition = "2021"
+description = "This crate allows you to generate lorem ipsum text, simply and easily."
+license = "Apache-2.0"
 
 [dependencies]
 rand = "0.8.5"
