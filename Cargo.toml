@@ -1,0 +1,8 @@
+[package]
+name = "lorem-ipsum-generator"
+authors = ["Varga Marcell <v.marcell4000@gmail.com>"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
